@@ -1,6 +1,6 @@
 # [JAMstack - Relativity](https://appseed.us/apps/jamstack/jamstack-relativity-pixelarity)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Relativity Pixelarity design.
+Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Relativity Pixelarity design.
 
 <br />
 
