@@ -1,4 +1,4 @@
-# [JAMstack - Relativity](https://jamstack-relativity.appseed.us/)
+# [JAMstack - Relativity](https://appseed.us/apps/jamstack/jamstack-relativity-pixelarity)
 
 Blazing fast application coded by AppSeed in JAMstack pattern on top of Relativity Pixelarity design.
 
@@ -15,13 +15,14 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ## App Links
----
- - [Jamstack Relativity demo](https://jamstack-relativity.appseed.us/)
- - [Relativity](https://pixelarity.com/relativity) - the design provided by Pixelarity 
+
+- [Jamstack Relativity](https://jamstack-relativity.appseed.us/) - live demo
+- [Pixelarity Relativity](https://pixelarity.com/relativity) - the design provided by Pixelarity 
 
 <br />
 
 ## How to use it
+
 - Clone this repo `git clone https://github.com/app-generator/priv-jamstack-relativity.git`
 - change directory to `priv-jamstack-relativity`
 - `yarn` - install deps
@@ -31,7 +32,8 @@ This is a commercial application, to use it you need to buy a license. Please ac
 
 <br />
 
-## JAMstack related Resources
+## [JAMstack](https://jamstack.org/) resources
+
 - Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
 - [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
 - [JAMstack.org](https://jamstack.org/)
@@ -40,4 +42,4 @@ This is a commercial application, to use it you need to buy a license. Please ac
 <br />
 
 ---
-[JAMstack - Relativity](https://jamstack-relativity.appseed.us/) - provided by **AppSeed**
+[JAMstack - Relativity](https://appseed.us/apps/jamstack/jamstack-relativity-pixelarity) - provided by **AppSeed**
