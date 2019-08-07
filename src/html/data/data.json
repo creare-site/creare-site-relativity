@@ -4,8 +4,7 @@
     "design"  : "Relativity by Pixelarity",
 
     "links" : {
-        "product_live"   : "https://appseed.us/apps/jamstack/jamstack-relativity-pixelarity", 
-        "product"        : "https://github.com/app-generator/priv-jamstack-relativity",
+        "product"        : "https://appseed.us/apps/jamstack/jamstack-relativity-pixelarity", 
         "github"         : "https://github.com/app-generator/priv-jamstack-relativity",
         "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-relativity-pixelarity/",
         "appseed"        : "https://appseed.us",      
